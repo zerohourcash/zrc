@@ -3,7 +3,7 @@ import './SafeMath.sol';
 
 
 /**
-    QRC20Token Standard Token implementation
+    ZRC20Token Standard Token implementation
 */
 contract QRC20Token is SafeMath {
     string public constant standard = 'Token 0.1';
